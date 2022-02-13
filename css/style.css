@@ -47,6 +47,10 @@ footer {
     padding: 10px;
 }
 
+.projects-containers> :first-child {
+    border: 5px solid #000;
+}
+
 #inner-div-1 {
     background-image: url(https://ociotour.es/img/uploads/Imagen/C%C3%A1diz/jerezcross_ficha.jpg);
 }
